@@ -1,14 +1,14 @@
-# TC_Embrapa_Finanças
+# TC_Finanças
 
-TC_Embrapa_Finanças é um projeto que utiliza redes neurais para prever o valor de fechamento de ações da NVIDIA, com o objetivo de auxiliar traders, principalmente aqueles que trabalham com day trade. Esse modelo no estado atual, é especialmente útil para realizar simulações de longo termo.
+TC_Finanças é um projeto que utiliza redes neurais para prever o valor de fechamento de ações da NVIDIA, com o objetivo de auxiliar traders, principalmente aqueles que trabalham com day trade. Esse modelo no estado atual, é especialmente útil para realizar simulações de longo termo.
 
-- [TC_Embrapa_Finanças - Aplicação](https://tcfinancas-nvidia-pred.streamlit.app/)
+- [TC_Finanças - Aplicação](https://tcfinancas-nvidia-pred.streamlit.app/)
   
 - [Vídeo de demonstração](https://youtu.be/KPAUvcIHdu0)
 
 ## Descrição
 
-O **TC_Embrapa_Finanças** é um sistema desenvolvido em Python que emprega redes neurais do tipo LSTM (Long Short-Term Memory) para prever os valores de fechamento das ações da NVIDIA. O projeto visa oferecer previsões precisas que podem ser usadas como suporte estratégico por traders durante operações de curto prazo.
+O **TC_Finanças** é um sistema desenvolvido em Python que emprega redes neurais do tipo LSTM (Long Short-Term Memory) para prever os valores de fechamento das ações da NVIDIA. O projeto visa oferecer previsões precisas que podem ser usadas como suporte estratégico por traders durante operações de curto prazo.
 
 ## Contribuidores
 
